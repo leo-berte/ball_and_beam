@@ -1,4 +1,4 @@
-Ball and Beam Control
+# Ball and Beam Control
 
 This project is perfect if you want to move your first steps into the world of control theory.
 I'll explain in details how the PID algorithm works, so that you will be able to use it in every project you can think about. 
