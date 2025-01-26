@@ -1,7 +1,7 @@
 # Ball and Beam Control
 
 <div>
-    <img src="./images/output.gif" alt="Global Trajectory" style="width:85%; height:auto;">
+    <img src="./images/sys.PNG" alt="Global Trajectory" style="width:85%; height:auto;">
 </div><br>
 
 This project is perfect if you want to move your first steps into the world of control theory.
